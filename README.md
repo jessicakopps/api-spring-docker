@@ -28,6 +28,5 @@ Projeto desenvolvido na aula da professora Marianne Salomão, no curso da Gama A
 
 - Para rodar a aplicação, vá até a pasta target do projeto, onde está o arquivo .jar, e rode o comando:
   ```
-  java -jar -Dspring.profiles.active=localdebug blue-bank-0.0.1-SNAPSHOT.jar
-  ```
+  java -jar -Dspring.profiles.active=localdebug blue-bank-0.0.1-SNAPSHOT.jar  ```
 
